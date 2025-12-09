@@ -22,20 +22,20 @@ To use BeautifulSoup and Requests, install the required libraries:
 
 # 📄 What This Script Does
 
-Fetches HTML content from the URL
+-Fetches HTML content from the URL
 
-Parses the HTML using BeautifulSoup
+-Parses the HTML using BeautifulSoup
 
-Extracts:
+-Extracts:
 
-Page title
+     -Page title
 
-Main heading
+     -Main heading
 
-All paragraphs
+     -All paragraphs
 
-Specific div tags using classes
+     -Specific div tags using classes
 
-All images (prints src attributes)
+     -All images (prints src attributes)
 
-All hyperlinks on the page
+     -All hyperlinks on the page
