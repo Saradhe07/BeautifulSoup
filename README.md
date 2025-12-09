@@ -17,8 +17,8 @@ BeautifulSoup makes web scraping easier by allowing you to:
 
 To use BeautifulSoup and Requests, install the required libraries:
 
-!pip install beautifulsoup4
-!pip install requests
+    -!pip install beautifulsoup4
+    -!pip install requests
 
 # 📄 What This Script Does
 
@@ -26,16 +26,16 @@ To use BeautifulSoup and Requests, install the required libraries:
 
 -Parses the HTML using BeautifulSoup
 
--Extracts:
+Extracts:
 
-     -Page title
+-Page title
 
-     -Main heading
+-Main heading
 
-     -All paragraphs
+-All paragraphs
 
-     -Specific div tags using classes
+-Specific div tags using classes
 
-     -All images (prints src attributes)
+-All images (prints src attributes)
 
-     -All hyperlinks on the page
+-All hyperlinks on the page
