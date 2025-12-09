@@ -13,14 +13,14 @@ BeautifulSoup makes web scraping easier by allowing you to:
 
 ✅ Locate elements using tag names, classes, and IDs
 
-#🚀 Installation
+# 🚀 Installation
 
 To use BeautifulSoup and Requests, install the required libraries:
 
 !pip install beautifulsoup4
 !pip install requests
 
-#📄 What This Script Does
+# 📄 What This Script Does
 
 Fetches HTML content from the URL
 
